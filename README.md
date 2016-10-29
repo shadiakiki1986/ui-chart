@@ -1,4 +1,5 @@
-# ui-chart directive [![Build Status](https://travis-ci.org/angular-ui/ui-chart.png?branch=master)](https://travis-ci.org/angular-ui/ui-chart)
+FORK to check if this is still working after the last update 3 years ago
+# ui-chart directive [![Build Status](https://travis-ci.org/shadiakiki1986/ui-chart.png?branch=master)](https://travis-ci.org/shadiakiki1986/ui-chart)
 
 This directive allows you to add a [jqPlot graph](http://www.jqplot.com/) to your application.
 
