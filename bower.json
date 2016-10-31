@@ -1,6 +1,6 @@
 {
   "name": "angular-ui-chart",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add a jqPlot chart to your Angular application.",
   "author": "https://github.com/angular-ui/ui-chart/graphs/contributors",
   "license": "MIT",
