@@ -105,7 +105,9 @@ describe('uiChart Directive', function  () {
   });
 
   it('should leave the element empty if data is not an array', function () {
-    spyOn($, 'jqplot').andCallThrough();
+    // 2016-10-30: commenting out the andCallThrough below
+    // it is similar to https://github.com/karma-runner/karma/issues/362
+    spyOn($, 'jqplot');// .andCallThrough();
     compile('data');
     scope.data = null;
     scope.$digest();
