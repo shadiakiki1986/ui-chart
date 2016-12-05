@@ -2,6 +2,8 @@ FORK to check if this is still working after the last update 3 years ago
 [![Build Status](https://travis-ci.org/shadiakiki1986/ui-chart.png?branch=master)](https://travis-ci.org/shadiakiki1986/ui-chart)
 For manually generating new release check `bower_components/angular-ui-docs/.travis/after_success.sh`
 
+Check [issue 23](https://github.com/angular-ui/ui-chart/issues/23) for more details
+
 # ui-chart directive [![Build Status](https://travis-ci.org/angular-ui/ui-chart.png?branch=master)](https://travis-ci.org/angular-ui/ui-chart)
 
 This directive allows you to add a [jqPlot graph](http://www.jqplot.com/) to your application.
