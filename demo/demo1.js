@@ -1,9 +1,9 @@
-angular.module('myChartingApp', ['ui.chart', 'prettifyDirective' ])
+angular.module('myChartingApp', ['ui.chart' ])
   .value('charting', {
     pieChartOptions: { 
       seriesDefaults: {
         // Make this a pie chart.
-        renderer: jQuery.jqplot.PieRenderer, 
+        renderer: $.jqplot.PieRenderer, 
         rendererOptions: {
           // Put data labels on the pie slices.
           // By default, labels show the percentage of the slice.
